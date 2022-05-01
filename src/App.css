@@ -1,0 +1,150 @@
+@import url('https://fonts.googleapis.com/css2?family=Prompt&display=swap');
+
+
+h1 {
+    font-family: 'Prompt', sans-serif;
+     
+};
+
+h2 {
+    
+    font-family: 'Prompt', sans-serif;
+    
+   
+}
+
+
+
+h3 {
+    font-family: 'Prompt', sans-serif;
+    color: white;
+    width: 105vh;
+}
+
+h4 {
+    font-family: 'Prompt', sans-serif;
+    color: white;
+    
+}
+
+h5 {
+    font-family: 'Prompt', sans-serif;
+    color: white;
+}
+
+h5 {
+    font-family: 'Prompt', sans-serif;
+    color: white;
+}
+
+span {
+    
+        font-family: 'Prompt', sans-serif;
+        color: white;
+   
+}
+
+
+.svg-content { 
+    height: 3.5vh;
+    width: 3.5vh;
+}
+
+
+.row {
+    height: 30vh;
+}
+
+.myBtn {
+    height: 25vh;
+    font-family: 'Prompt', sans-serif;
+    
+}
+
+.imgClass {
+    height: 72.5vh;
+}
+
+p {
+    width: 41vh;
+    font-family: 'Prompt', sans-serif;
+}
+
+.rowBlue {
+    height: 55vh;
+    background-color:  rgb(122, 114, 168);
+   
+    
+}
+
+.rowEnd {
+    height: 62.5vh;
+    background-color: rgb(122, 114, 168);
+}
+
+.services {
+    height: 80vh;
+    padding-top: 6vh
+}
+
+
+.imgH2 {
+    height: 61vh;
+    
+}
+.img33 {
+    height: 43.75vh;
+    
+}
+.ig {
+    height: 4vh;
+}
+
+.fb {
+    height: 4vh;
+}
+
+.fb:hover {
+    cursor: pointer;
+}
+
+.ig:hover {
+    cursor: pointer;
+}
+
+.btn-danger.custom-btn {
+	background-color: rgb(253, 123, 84);
+	
+}
+
+
+
+@media only screen and (max-width: 1200px) {
+    .services {
+        height: 40vh;
+    }
+  }
+
+  @media only screen and (max-width: 1400px) {
+    .services {
+        height: 87.5vh;
+    }
+  }
+
+  @media only screen and (max-width: 1024px) {
+    .services {
+        height: 39vh;
+    }
+  }
+
+  @media only screen and (max-width: 1400px) {
+    .imgH2 {
+        height: 62vh;
+    }
+  }
+
+  @media only screen and (min-width: 1600px) {
+    .imgH2 {
+        height: 57.5vh;
+    }
+  }
