@@ -168,7 +168,7 @@ function App() {
 
         <h5 className="text-center mt-4 pt-4">Address</h5>
         <section className="d-flex">
-        <span className="mx-auto">Tatari 30, Tallinn</span>
+        <span className="mx-auto">Bilmington road 36, Chescaster</span>
         </section>
         <div className="text-center">
         <Image src={ig} className="ig mx-1 mt-1" onClick={onClickUrl('https://instagram.com')} />
